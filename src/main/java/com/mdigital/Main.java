@@ -7,6 +7,7 @@ public class Main {
         System.out.println("hello");
 
 
+
         String name = "obeeyd";
 
         if (!name.equals("obeeyd")) {
@@ -15,5 +16,8 @@ public class Main {
         else {
             System.out.println("thats my name");
         }
+
     }
+
+
 }
